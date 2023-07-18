@@ -39,12 +39,10 @@ If you want to customize the drum kit or add your own sounds, follow these steps
 1. Open the project directory on your computer.
 2. Locate the `sounds` folder, which contains the drum sound files in `.wav` format.
 3. Replace the existing sound files with your own sound files, ensuring they are in the same format (`.wav`).
-4. Open the `index.html` file in a text editor.
-5. Look for the html code section that maps the keys to the drum sounds.
-6. Modify the html code to associate the desired keys with the corresponding drum sounds. You can refer to the existing code for guidance.
+4. Open the `index.js` file in a text editor.
+5. Look for the Javascript code section that maps the keys to the drum sounds.
+6. Modify the Javascript code to associate the desired keys with the corresponding drum sounds. You can refer to the existing code for guidance.
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding the Drum Kit Play project, please contact the project maintainer at [your-email@example.com](iit9priyanshu@example.com).
-
-
+If you have any questions, suggestions, or feedback regarding the Drum Kit Play project, please contact at [iit9priyanshu@example.com].
